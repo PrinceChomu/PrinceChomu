@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p>
   <a href="https://www.linkedin.com/in/prince-chomunorwa-5311aa15a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2> Some Stats thingies </h2>
+<h2> Me in summary ✨ </h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceChomu&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceChomu&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augmentx-zw&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceChomu&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceChomu&theme=radical)
 
