@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceChomu&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceChomu&theme=radical)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=PrinceChomu&count_private=true&show_icons=true&theme=radical)](https://github.com/PrinceChomu)
+
